@@ -10,7 +10,7 @@ resources:
 
 images:
   - name: vivaansantosh/chai-devops
-    newTag: v1.0.1
+    newTag: v1.0.0
 
 # (optional) you can put commonLabels or namespace here if you want
 # commonLabels:
